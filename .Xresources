@@ -1,0 +1,47 @@
+! quando criar ou alerar este arquivo, no final, feche-o e execute:
+! #xrdb -merge ~/.Xresources, isto fara com que o servidor X incorpore
+! estes tweaks, e os salva para serem restaurados nas proximas sessoes.
+
+! use a nice trueType font and size by default...
+xterm*faceName: DejaVu Sans Mono Book
+xterm*faceSize: 8
+
+! every shell is a login shell by default (for inclusion of all necessary environment variables)
+xterm*loginshell: true
+
+! i like a LOT of scrollback...
+xterm*savelines: 16384
+
+! double-click to select whole URLs :D
+xterm*charClass: 33:48,36-47:48,58-59:4
+
+! default windows size
+xterm*vt100*geometry: 100x40
+
+! DOS-box colours...
+xterm*foreground: rgb:a8/a8/a8
+xterm*background: rgb:00/00/00
+xterm*color0: rgb:00/00/00
+xterm*color1: rgb:a8/00/00
+xterm*color2: rgb:00/a8/00
+xterm*color3: rgb:a8/54/00
+xterm*color4: rgb:00/00/a8
+xterm*color5: rgb:a8/00/a8
+xterm*color6: rgb:00/a8/a8
+xterm*color7: rgb:a8/a8/a8
+xterm*color8: rgb:54/54/54
+xterm*color9: rgb:fc/54/54
+xterm*color10: rgb:54/fc/54
+xterm*color11: rgb:fc/fc/54
+xterm*color12: rgb:54/54/fc
+xterm*color13: rgb:fc/54/fc
+xterm*color14: rgb:54/fc/fc
+xterm*color15: rgb:fc/fc/fc
+
+
+! right hand side scrollbar
+xterm*rightScrollBar: true
+xterm*scrollBar: true
+
+! stop output to terminal from jumping down to bottom of scroll again
+xterm*scrollTtyOutput: false
