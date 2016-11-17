@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-fill '/root/.wallpapers/bsd_wallpaper3.jpg' '/root/.wallpapers/bsd_wallpaper2.jpg' '/root/.wallpapers/bsd_wallpaper.jpg' '/root/.wallpapers/bsd_wallpaper1.jpg' 

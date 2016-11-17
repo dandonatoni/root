@@ -1,0 +1,2000 @@
+#+1478817010
+sysctl -a | grep tempsysctl -#+1478800317
+#+1478817010
+sysctl -a | grep tempsysctl -#+1478793516
+#+1478817010
+sysctl -a | grep tempsysctl d#+1478793426
+#+1478817010
+sysctl dev.cpu.2.temifconfig #+1478793386
+#+1478817010
+route add default 192.168.0.1
+#+1478817010
+ls
+#+1478817010
+wpa_supplicant -i wlanifconfig wlan0 up list scan
+#+1478817010
+ifconfig wlan0 up listifconf#+1478740917
+#+1478817013
+ps
+#+1478817022
+kill 1636
+#+1478817045
+tint2 /root/.config/tint2/tint2rc_bottom
+#+1478817355
+tint2 /root/.config/tint2/tint2rc_bottom
+#+1478823411
+sysctl -a | grep tempsysctl -a | grep temp#+1478823411
+#+1478823411
+rature
+#+1478823411
+cd root/
+#+1478823411
+sysctl -a | grep tempsysctl -#+1478810923
+#+1478823411
+emperature
+#+1478823411
+sysctl -a | grep tempsysctl -#+1478800317
+#+1478823411
+sysctl -a | grep tempsysctl -#+1478793516
+#+1478823411
+sysctl -a | grep tempsysctl d#+1478793426
+#+1478823411
+sysctl dev.cpu.2.temifconfig #+1478793386
+#+1478823411
+route add default 192.168.0.1
+#+1478823411
+wpa_supplicant -i wlanifconfig wlan0 up list scan
+#+1478823411
+ifconfig wlan0 up listifconf#+1478740917
+#+1478823411
+ifconfig wlan0 up listifconf#+1478740819
+#+1478823411
+ifconfig wlan0 up listifconf#+1478740780
+#+1478823411
+service netif restart
+#+1478823411
+hash
+#+1478823411
+mpc
+#+1478823411
+dmesg | grep -iname warn+147#+ | grep -iname ncm#+1#+14786824qtcdmesg #+1478696049
+#+1478823411
+ir -p ~/.ncmpsh star#+1461
+#+1478823411
+dmesg | grep -iname warn+147#+ | grep -iname ncmpc
+#+1478823411
+| grep -iname ncmpw.#+1478682418
+#+1478823411
+sysctl -h kern.version
+#+1478823411
+$psize
+#+1478823411
+sysctl h kern.osrelease
+#+1478823411
+sysctl -eh kern.osreleassy#+1478651899
+#+1478823411
+sysctl -e kern.osrelease
+#+1478823411
+sysctl -n kern.ossysctl -#+1478651799
+#+1478823411
+cd /proc/curproc/status
+#+1478823411
+cat /proc/curproc/ssysctl#+1478651379
+#+1478823411
+sysctl -a hw.clockrate
+#+1478823411
+top -PSH | grep conky | sed 's/conky/CONKtop #+147#+147862ps | top -PSH | grep conky | sed 's/con#+147862544#+cd conf/haxps | #+1478625447
+#+1478823411
+cd /usr/local/etc/X11/xinitfi#+1478564553
+#+1478823411
+cd .conky
+#+1478823411
+1478564467
+#+1478823411
+ls
+#+1478823411
+ls -f "$PWD"/{*ls -ltr -f -l "$PWD"/{*.*} | $2
+#+1478823411
+ls -f -l "$PWD"/{*.*}
+#+1478823411
+clear
+#+1478823411
+cd ..
+#+1478823411
+ls -ltr -f -l "$PWD"/{*,*}l#+1478538194
+#+1478823411
+ls -ltr -f -l ls -ltr -l "$#+1478#+14785ls -ltls -ltr -l "$PWD"/{* #+147#+147853ls -lls -ltr -l "$PWD"
+#+1478823411
+ls -ltr -f -l ls -ltr #+1478537969
+#+1478823411
+ls -d /a/b/c/
+#+1478823411
+ls >> /root/.config/tincd root/
+#+1478823411
+cd /
+#+1478823411
+ps
+#+1478823411
+4
+#+1478823411
+478434538
+#+1478823411
+078
+#+1478823411
+d linux-c6-flashpllopen e#d linux-c6-f#+1478811932
+#+1478823411
+in
+#+1478823411
+7
+#+1478823411
+conky.sh
+#+1478823411
+f res#+147#+147829seran0#+1478305#+14dhclient ifconf#+1478306102
+#+1478823411
+xrdb -merge ~/.Xreso478434#+1478532076
+#+1478823411
+/etc/make.conf
+#+1478823411
+ifconvi /boot/loadmv musicp78449078
+#+1478823411
+f res#+147#+147829seran0#+1478305#+14dhclient ifconf#+1#+14785320#+178449078
+#+1478823411
+1478400261
+#+1478823411
+xrdb -merge ~/error: < url#+1478532076
+#+1478823411
+y.sh
+#+1478823411
+ot known >
+#+1478823411
+provided, or not know0026#+#+14785320714400261
+#+1478823411
+400261
+#+1478823411
+lopen error [Errno 8] hostname#+1478432834
+#+1478892532
+ifconfig wlan0
+#+1478893034
+xrandr
+#+1478893719
+startx
+#+1478896066
+startx
+#+1478896543
+ifconfig wlan0
+#+1478901640
+poweroff
+#+1479025828
+cal/etc/X11/xorg.conf.d/xorg.conf
+#+1479026701
+cal/etc/X11/xorg.conf.d/xorg.conf
+#+1479026711
+uname -a | grep errpor
+#+1479026713
+uname -a | grep error
+#+1479026716
+uname -a | grep erro*
+#+1479026722
+uname -a | grep "error"
+#+1479026726
+uname -a | grep "erro"
+#+1479026735
+uname -a | grep "*warn*"
+#+1479026739
+uname -a | grep "*err*"
+#+1479026745
+uname -a | grep *err*
+#+1479026749
+uname -a | grep *war*
+#+1479026754
+uname -a | grep *ad*
+#+1479026757
+uname -a | grep *ad
+#+1479026760
+uname -a | grep ad*
+#+1479026763
+uname -a | grep ad
+#+1479026770
+uname -a | grep "ad"
+#+1479026773
+uname -a | grep "ad0"
+#+1479026781
+uname -a | grep "da"
+#+1479026785
+uname -a | grep "da*"
+#+1479026803
+uname -a | grep "usb*"
+#+1479026848
+dmesg -a
+#+1479026857
+dmesg -a | grep "*err*"
+#+1479026859
+dmesg -a | grep *err*
+#+1479026862
+dmesg -a | grep *err
+#+1479026864
+dmesg -a | grep err
+#+1479028251
+moused stop
+#+1479028261
+moused -stop
+#+1479028278
+man mouse
+#+1479028423
+service moused stop
+#+1479028428
+service moused start
+#+1479028508
+zzz
+#+1479028660
+cal/etc/X11/xorg.conf.d/xorg.conf
+#+1479028664
+ping www.google.com
+#+1479028671
+ping www.freebsd.org
+#+1479030955
+cal/etc/X11/xorg.confcal/etc/X11/x#+1478893719
+#+1479030968
+pkg install synapticsm#+1479030995
+#+1479031102
+cal/etc/X11/xorg.conf.d/xorg.conf
+#+1479031107
+-l
+#+1479031107
+mpsh star#+147837903mmpsh star#+147#+1478532076
+#+1479031107
+8434538
+#+1479031107
+157
+#+1479031174
+pkg update
+#+1479031174
+startx
+#+1479031174
+cd root/
+#+1479031174
+emperature
+#+1479031174
+sysctl -a | grep tempsysctl -a | grep temp#+1478823411
+#+1479031174
+sysctl dev.cpu.2.temisysctl dev.cpu.2.temi#+1478823411
+#+1479031174
+route add default 192route add#+1478823411
+#+1479031174
+wpa_supplicant -i wlawpa_supplicant -i wlanifconfi#+1478823411
+#+1479031174
+ifconfig wlan0 up lisifconfig wlan0 up li#+1478823411
+#+1479031174
+n0 up lisifconfig wlan0 up li#+1478823411
+#+1479031175
+ps
+#+1479031188
+login
+#+1479031188
+n0 up lisifconfig wlan0 up li#+1478823411
+#+1479031188
+ifconfig wlan0 up lisifconfig wlan0 up li#+1478823411
+#+1479031188
+wpa_supplicant -i wlawpa_supplicant -i wlanifconfi#+1478823411
+#+1479031188
+route add default 192route add#+1478823411
+#+1479031188
+sysctl dev.cpu.2.temisysctl dev.cpu.2.temi#+1478823411
+#+1479031188
+sysctl -a | grep tempsysctl -a | grep temp#+1478823411
+#+1479031188
+emperature
+#+1479031188
+cd root/
+#+1479031188
+startx
+#+1479031188
+pkg update
+#+1479034767
+cat /var/log/Xorg.0.log
+#+1479034785
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479034822
+cat /var/log/Xorg.0.log | grep II
+#+1479034837
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479034864
+startx
+#+1479034889
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479035098
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479035495
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479035520
+kldstat
+#+1479036093
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479037009
+service netif restart
+#+1479037026
+ping freebsd.org
+#+1479037035
+ping donatoni.net
+#+1479037292
+ping -c 1 -s 42 8.8.8.8
+#+1479037336
+ping -c 1 -s 1464 8.8.8.8
+#+1479037478
+traceroute 8.8.8.8
+#+1479037525
+traceroute -n -- mtu 8.8.8.8
+#+1479037532
+traceroute -n --mtu 8.8.8.8
+#+1479037541
+traceroute -n -mtu 8.8.8.8
+#+1479037547
+traceroute --mtu 8.8.8.8
+#+1479037554
+man traceroute
+#+1479037672
+traceroute -n 8.8.8.8
+#+1479037772
+vi /etc/resolv.conf
+#+1479038616
+service host restart
+#+1479038625
+host
+#+1479038642
+host -v
+#+1479038645
+host -v -4
+#+1479038649
+host -4
+#+1479038685
+hoststat
+#+1479038739
+service netif restart
+#+1479038758
+ifconfig wlan0
+#+1479039537
+cd /usr/local/share/X11/xkb/rules/
+#+1479039538
+ls
+#+1479039541
+ls -l
+#+1479039567
+ls-l
+#+1479039569
+ls -l
+#+1479040893
+chmod 777 xorg.lst
+#+1479040895
+ls -l
+#+1479040974
+chmod 777 xorg.xml
+#+1479040976
+ls -l
+#+1479040999
+chmod 777 xorg
+#+1479041001
+ls -l
+#+1479041067
+rep temp#+1478823411
+#+1479041070
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479041113
+cd /usr/local/share/X11/xkb/compiled/
+#+1479041115
+ls
+#+1479041121
+cat server-1
+#+1479041279
+rep temp#+1478823411
+#+1479041385
+rep temp#+1478823411
+#+1479041413
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479042669
+cd /usr/local/etc/X11/xorg.conf.d/
+#+1479046030
+ls
+#+1479046037
+ls -l
+#+1479046067
+cp xorg.conf xorg.conf.bak
+#+1479046075
+ls -l
+#+1479046118
+ls -l
+#+1479046201
+cp-permission
+#+1479046432
+chmod a+x 000_ServerLayout_Section_Ickis.conf
+#+1479046433
+ls -l
+#+1479046554
+s
+#+1479046555
+ls
+#+1479046559
+ls -l
+#+1479046727
+cat /var/log/Xorg.0.log | more
+#+1479046733
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479048042
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479049881
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479051544
+cd /usr/local/etc/X11/xorg.conf.d/
+#+1479051545
+ls
+#+1479053506
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479053515
+ls
+#+1479053538
+cd /usr/local/etc/X11/xorg.conf.d/
+#+1479053539
+ls
+#+1479053599
+mv 100_ServerFlags_Section_Ickis.conf 0100_ServerFlags_Section_Ickis.conf
+#+1479053600
+ls
+#+1479053614
+mv 200_Extensions_Section_Ickis.conf 0200_Extensions_Section_Ickis.conf
+#+1479053615
+ls
+#+1479053631
+mv 300_Files_Section_Ickis.conf 0300_Files_Section_Ickis.conf
+#+1479053644
+mv 400_Module_Section_Ickis.conf 0400_Module_Section_Ickis.conf
+#+1479053654
+mv 500_InputDevice_Section_Ickis.conf 0500_InputDevice_Section_Ickis.conf
+#+1479053655
+ls
+#+1479053664
+mv 600_InputClass_Section_Ickis.conf 0600_InputClass_Section_Ickis.conf
+#+1479053671
+mv 700_VideoAdaptor_Section_Ickis.conf 0700_VideoAdaptor_Section_Ickis.conf
+#+1479053682
+mv 800_Monitor_Section_Ickis.conf 0800_Monitor_Section_Ickis.conf
+#+1479053690
+mv 900_Modes_Section_Ickis.conf 0900_Modes_Section_Ickis.conf
+#+1479053691
+ls
+#+1479053706
+rm xorg.conf
+#+1479053707
+ls
+#+1479053727
+mv 000_ServerLayout_Section_Ickis.conf 0000_ServerLayout_Section_Ickis.conf
+#+1479053729
+ls -l
+#+1479053747
+chmod a+x *.conf
+#+1479053750
+ls -l
+#+1479053811
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479053884
+cd /usr/local/etc/X11/xorg.conf.d/
+#+1479053885
+ls
+#+1479055067
+xrandr
+#+1479055632
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479055655
+cat scripts/getWWEE_xorgFilesLogs.sh
+#+1479055670
+cat /var/log/Xorg.0.log | grep II
+#+1479056183
+xrandr
+#+1479057048
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479057189
+cat /var/log/Xorg.0.log | grep II
+#+1479057311
+xrandr
+#+1479059448
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479059515
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479059645
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479059694
+cat /var/log/Xorg.0.log | grep II
+#+1479060791
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479061028
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479062126
+zzz
+#+1479067432
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479067824
+cd var
+#+1479067826
+cd /var/
+#+1479067827
+ls
+#+1479067829
+ls
+#+1479067829
+cd log/
+#+1479067846
+cat messages | grep EE
+#+1479067852
+cat messages | grep WW
+#+1479067856
+cat messages | more
+#+1479067957
+cat messages | grep -iname failed
+#+1479067966
+cat messages | grep -iname Failed
+#+1479067995
+cat messages | grep -iname Failed
+#+1479067999
+cat messages | grep -iname Failed | more
+#+1479068066
+cat messages | grep -name Failed | more
+#+1479068226
+sysctl -a | grep maxsockbuf
+#+1479068270
+kern.ipc.maxsockbuf=5242880
+#+1479068276
+sysctl kern.ipc.maxsockbuf=5242880
+#+1479068315
+sysctl kern.ipc.maxsockbuf=5242880
+#+1479068317
+sysctl kern.ipc.maxsockbuf=5242880
+#+1479068320
+clear
+#+1479068339
+transmission-show
+#+1479068355
+service list
+#+1479068371
+service -e
+#+1479068392
+service transmission restart
+#+1479068416
+service -e
+#+1479068429
+cat messages | grep transmission
+#+1479068622
+transmission-cli
+#+1479068643
+transmission-cli -w
+#+1479068651
+transmission-cli -v
+#+1479068654
+transmission-cli -V
+#+1479069184
+transmission-cli
+#+1479069192
+transmission-cli -d
+#+1479069207
+transmission-cli -g
+#+1479069212
+transmission-cli -p
+#+1479069232
+transmission-show
+#+1479069240
+transmission-show -m
+#+1479069251
+transmission-edit
+#+1479069262
+transmission-gtk
+#+1479069295
+man transmission
+#+1479069302
+transmission -h
+#+1479069305
+transmission
+#+1479069316
+transicc
+#+1479069949
+cat /var/log/messages | grep transmission
+#+1479070015
+cat /var/log/messages | grep transmission
+#+1479070029
+sysctl kern.ipc.maxsockbuf=5242880
+#+1479070039
+service transmission restart
+#+1479070044
+cat /var/log/messages | grep transmission
+#+1479070091
+transmission-gtk
+#+1479070525
+service transmission restart
+#+1479071889
+transmission --stop
+#+1479071899
+transmission-daemon stop
+#+1479071920
+man transmission-daemon
+#+1479071978
+man service
+#+1479071999
+service -v transmission restart
+#+1479072214
+sysctl kern.ipc.maxsockbuf=5242880
+#+1479073063
+transmission-daemon stop
+#+1479073068
+transmission-daemon -stop
+#+1479073071
+service transmission restart
+#+1479073084
+service -e
+#+1479073095
+service transmission stop
+#+1479073100
+service -e
+#+1479073114
+ps
+#+1479073125
+top
+#+1479073139
+top 100
+#+1479073150
+top 33
+#+1479073167
+service transmission start
+#+1479073171
+top
+#+1479073502
+top
+#+1479073533
+service transmission start
+#+1479073537
+top
+#+1479074941
+transmission-remote-cli
+#+1479074944
+transmission-remote
+#+1479075976
+serice 0r
+#+1479075979
+service -e
+#+1479075993
+service musicpd stop
+#+1479076007
+service musicpd start
+#+1479076061
+service musicpd start
+#+1479076106
+ls
+#+1479076106
+cd /usr/local/etc/rc.d/
+#+1479076112
+ls -l
+#+1479076149
+vi musicpd
+#+1479076172
+ls
+#+1479076175
+cd /
+#+1479076185
+cd /var/mpd/
+#+1479076187
+ls
+#+1479076303
+cd .mpd/
+#+1479076304
+ls
+#+1479076310
+ls -l
+#+1479076428
+cd /
+#+1479076440
+find / -iname mpd
+#+1479078859
+cd /usr/local/include/mpd/
+#+1479078859
+ls
+#+1479078893
+find / -iname musicpd
+#+1479078931
+cd /usr/local/share/doc/musicpd/
+#+1479078933
+ls
+#+1479078940
+cat README
+#+1479078958
+ls
+#+1479078977
+cd ../..
+#+1479078978
+ls
+#+1479078984
+cd ..
+#+1479078989
+cd bin/musicpd
+#+1479078993
+cd bin/
+#+1479078994
+ls
+#+1479078997
+vi musicpd
+#+1479079008
+ls musi*
+#+1479079017
+cat musicpd
+#+1479079027
+musicpd
+#+1479079043
+cd ..
+#+1479079050
+cd etc/rc.d/
+#+1479079050
+ls
+#+1479079055
+cat musicpd
+#+1479079122
+ls
+#+1479079122
+cd /etc/
+#+1479079134
+ls musicpd
+#+1479079138
+ls musi*
+#+1479079141
+ls
+#+1479079158
+ls
+#+1479079158
+cd /usr/local/
+#+1479079170
+cd etc/
+#+1479079173
+cat musicpd.conf
+#+1479079282
+musicpd
+#+1479079373
+musicpd
+#+1479079580
+ls
+#+1479079580
+cd /root/.mpd/
+#+1479079583
+ls -l
+#+1479079660
+gdb
+#+1479079713
+gdb mpd
+#+1479080138
+ls
+#+1479080141
+ls -l
+#+1479080189
+chmod a+w db
+#+1479080191
+ls -l
+#+1479080198
+musicpd
+#+1479080320
+cd /root/.conky
+#+1479080321
+ls
+#+1479080325
+ls
+#+1479080325
+rm start_haxos_conky.sh
+#+1479080343
+top
+#+1479080347
+ps
+#+1479080369
+ps
+#+1479080379
+cd .conky
+#+1479080380
+ls
+#+1479080394
+cd conf/haxos/
+#+1479080394
+ls
+#+1479080407
+conky -c .conky_mpd
+#+1479080775
+moc
+#+1479080780
+mpc
+#+1479080791
+service -e
+#+1479080943
+mpc
+#+1479080954
+ncmpc
+#+1479080989
+ncmpcpp
+#+1479081001
+ncmpc
+#+1479081047
+ncmpc
+#+1479081059
+ncmpc
+#+1479081134
+pkg install mpc
+#+1479081202
+psearch mpc
+#+1479081442
+ncmpc
+#+1479081532
+ps ax | grep npd
+#+1479081577
+cat ~/.ncmpcpp/config
+#+1479081596
+cd ~/.ncmpcpp/
+#+1479081597
+ls
+#+1479081602
+vi config
+#+1479081830
+cd ~/.ncmpcpp/
+#+1479081833
+vi config
+#+1479081909
+ncmpc
+#+1479081950
+netstat mpd
+#+1479082049
+vi config
+#+1479082131
+service musicpd stop
+#+1479082134
+ps
+#+1479082142
+service -r
+#+1479082145
+service -e
+#+1479082155
+stop musicpd
+#+1479082164
+killall musicpd
+#+1479082168
+top
+#+1479082184
+ps
+#+1479082192
+top
+#+1479082195
+ps
+#+1479082200
+service -e
+#+1479082215
+service musicpd restart
+#+1479082223
+musicpd stop
+#+1479082232
+man musicpd
+#+1479082258
+musicpd kill
+#+1479082262
+musicpd --kill
+#+1479082265
+service -e
+#+1479082321
+traceroute musicpd
+#+1479082331
+traceroute mpd
+#+1479082339
+musicpd
+#+1479082351
+ncmpc
+#+1479082398
+musicpd --version
+#+1479082435
+musicpd --verbose ~/.mpd/config
+#+1479082566
+ls
+#+1479082568
+vi config
+#+1479082747
+ls
+#+1479083319
+service musicpd stop
+#+1479083323
+service -r
+#+1479083326
+service -e
+#+1479083334
+musicpd stop
+#+1479083337
+musicpd --stop
+#+1479083341
+musicpd -stop
+#+1479083345
+musicpd man
+#+1479083349
+man musicpd
+#+1479083360
+man mpd
+#+1479083363
+ls
+#+1479083370
+service musicpd restart
+#+1479083380
+service musicpd start
+#+1479083386
+musicpd start
+#+1479083391
+musicpd
+#+1479083435
+musicpd
+#+1479083443
+service musicpd restart
+#+1479083446
+musicpd
+#+1479083483
+ncmpc
+#+1479083750
+conky -c .conky_mpd
+#+1479083812
+ncmpc
+#+1479083969
+ncmpcpp
+#+1479084076
+ncmpcpp
+#+1479085148
+ncmpc
+#+1479113520
+ps
+#+1479113572
+ncmpcpp
+#+1479113758
+musicpd create-db
+#+1479113989
+cd .config/
+#+1479113990
+ls
+#+1479113995
+cd ..
+#+1479114013
+cd .mpd/
+#+1479114013
+ls
+#+1479114015
+ls -l
+#+1479114046
+chmod a+x socket
+#+1479114049
+ls -l
+#+1479114090
+ncmpcpp
+#+1479114100
+musicpd stop
+#+1479114116
+service musicpd stop
+#+1479114121
+service musicpd start
+#+1479114132
+ncmpcpp
+#+1479114144
+ls
+#+1479114184
+service musicpd stop
+#+1479114190
+service musicpd start
+#+1479114201
+ncmpcpp
+#+1479115972
+ncmpcpp
+#+1479116027
+ncmpcpp
+#+1479117090
+ncmpcpp
+#+1479117143
+ncmpcpp
+#+1479117187
+ncmpcpp
+#+1479117585
+ncmpcpp
+#+1479117908
+ncmpcpp
+#+1479117944
+ncmpcpp
+#+1479117997
+ncmpcpp
+#+1479118193
+ncmpcpp
+#+1479118291
+ncmpcpp
+#+1479118458
+ncmpcpp
+#+1479118638
+ncmpcpp
+#+1479118735
+ncmpcpp
+#+1479118826
+ncmpcpp
+#+1479119085
+ncmpcpp
+#+1479119200
+ncmpcpp
+#+1479119336
+ncmpcpp
+#+1479119465
+ncmpcpp
+#+1479130223
+ncmpcpp
+#+1479130428
+ncmpcpp
+#+1479130590
+ncmpcpp
+#+1479130729
+ncmpcpp
+#+1479130916
+ncmpcpp
+#+1479130958
+ncmpcpp
+#+1479130985
+ncmpcpp
+#+1479131059
+ncmpcpp
+#+1479131141
+ncmpcpp
+#+1479131165
+ncmpcpp
+#+1479131374
+ncmpcpp
+#+1479131429
+ncmpcpp
+#+1479131583
+ncmpcpp
+#+1479131634
+ncmpcpp
+#+1479131653
+ncmpcpp
+#+1479131664
+ncmpcpp
+#+1479131699
+ncmpcpp
+#+1479131765
+ncmpcpp
+#+1479131827
+ncmpcpp
+#+1479131878
+ncmpcpp
+#+1479131910
+ncmpcpp
+#+1479131941
+ncmpcpp
+#+1479131994
+ncmpcpp
+#+1479132018
+ncmpcpp
+#+1479132132
+ncmpcpp
+#+1479132157
+ncmpcpp
+#+1479132159
+ncmpcpp
+#+1479132166
+ncmpcpp
+#+1479132172
+ncmpcpp
+#+1479132180
+ncmpcpp
+#+1479132221
+ncmpcpp
+#+1479132370
+ncmpcpp
+#+1479132384
+ncmpcpp
+#+1479132458
+ncmpcpp
+#+1479132465
+ncmpcpp
+#+1479132600
+ncmpcpp
+#+1479132605
+ncmpcpp
+#+1479132622
+ncmpcpp
+#+1479132686
+ncmpcpp
+#+1479132759
+ncmpcpp
+#+1479132769
+ncmpcpp
+#+1479132789
+ncmpcpp
+#+1479132816
+ncmpcpp
+#+1479133564
+ncmpcpp
+#+1479133571
+ncmpcpp
+#+1479134377
+man ncmpcpp
+#+1479134401
+ncmpcpp
+#+1479134455
+ncmpcpp --current-song
+#+1479134483
+clear
+#+1479134485
+ncmpcpp --current-song
+#+1479134493
+clear
+#+1479134602
+man mpd
+#+1479134610
+man mpc
+#+1479134926
+cd downloads
+#+1479134927
+l
+#+1479134928
+ls
+#+1479134939
+cd ..
+#+1479134942
+cd downloads
+#+1479134946
+cd ..
+#+1479134954
+cd Downloads
+#+1479134956
+ls
+#+1479134964
+tar -xfv rompr-0.78.zip
+#+1479134971
+tar -xf rompr-0.78.zip
+#+1479135231
+cd /root/.ncmpcpp/
+#+1479135232
+ls
+#+1479135257
+cp config config.bak
+#+1479135284
+rm config_01.bak
+#+1479135285
+ls
+#+1479135490
+cd .conky
+#+1479135497
+cd conf/haxos/
+#+1479135498
+ls
+#+1479135507
+conky -c .conky_mpd
+#+1479135974
+pkg search mpd
+#+1479136002
+pkg search mpd
+#+1479136347
+printenv
+#+1479136411
+( set -o posix ; set ) | more
+#+1479136429
+( set -o posix ; set ) | less
+#+1479136485
+env
+#+1479136553
+ncmpcpp
+#+1479136993
+pkg install ympd
+#+1479137007
+pkg search ympd
+#+1479137036
+pkg search ympd
+#+1479137044
+pkg search mpd
+#+1479137127
+pkg info hs-libmpd-0.90.2
+#+1479137138
+pkg info hs-libmpd-0.9.0.2
+#+1479137169
+pkg stat hs-libmpd-0.9.0.2
+#+1479137218
+pkg install hs-libmpd-0.9.0.2
+#+1479137416
+pkg upgrade
+#+1479138634
+cd scripts/mus/
+#+1479138637
+sh mpd.sh
+#+1479138670
+sh mpd.sh
+#+1479138682
+sh mpd.sh
+#+1479138711
+sh mpd.sh
+#+1479138757
+ncmpcpp
+#+1479138785
+ncmpcpp
+#+1479138802
+service musicpd start
+#+1479138807
+service musicpd stop
+#+1479138810
+service musicpd start
+#+1479138816
+ncmpcpp
+#+1479138852
+ncmpcpp
+#+1479138885
+service musicpd stop
+#+1479138887
+service musicpd start
+#+1479138890
+ncmpcpp
+#+1479139099
+ncmpcpp
+#+1479139145
+cd /tmp/
+#+1479139146
+ls
+#+1479139162
+cd dbus-gLnKn4JCil
+#+1479139464
+ncmpcpp
+#+1479139509
+ncmpcpp
+#+1479139725
+ncmpcpp
+#+1479139794
+ncmpcpp
+#+1479140052
+ncmpcpp
+#+1479140206
+ncmpcpp
+#+1479140248
+ncmpcpp
+#+1479140378
+ncmpcpp
+#+1479140418
+ncmpcpp
+#+1479140443
+ncmpcpp
+#+1479140494
+ncmpcpp
+#+1479140528
+ncmpcpp
+#+1479140555
+ncmpcpp
+#+1479140591
+ncmpcpp
+#+1479140661
+ncmpcpp
+#+1479200958
+kldstat
+#+1479201001
+kldload acpi_asus
+#+1479201005
+kldstat
+#+1479201282
+ncmpcpp
+#+1479201456
+kldload acpi_asus_wmi
+#+1479201465
+kldstat
+#+1479201967
+pkg install xfce4-terminal
+#+1479202137
+pkg clean
+#+1479202150
+pkg install xfce4-terminal
+#+1479202253
+vi /usr/local/etc/pkg.conf
+#+1479202392
+pkg clean
+#+1479202411
+pkg install xfce4-terminal
+#+1479202462
+vi /usr/local/etc/pkg.conf
+#+1479202484
+rehash
+#+1479202499
+xfce4-terminal
+#+1479202921
+find / iname applications
+#+1479202929
+find / iname applications | more
+#+1479203050
+find / -name applications | more
+#+1479203194
+find . -name applications | more
+#+1479203207
+find . -name applications
+#+1479203216
+cd ./.local/share/applications/
+#+1479203217
+ls
+#+1479203230
+cd /
+#+1479203239
+find . -name applications
+#+1479203420
+ls
+#+1479203772
+ls
+#+1479203772
+cd /root/.config/tint2/
+#+1479203784
+cp tint2rc_left tint2rc_left.bak
+#+1479204339
+sysctl dev.acpi_asus_wmi.0.handle_keys
+#+1479205469
+sysctl dev.cpu.2.temperature
+#+1479205484
+sysctl dev.acpi_asus_led
+#+1479205494
+sysctl dev.acpi_asus_model
+#+1479205501
+sysctl acpi_asus_model
+#+1479205672
+sysctl hw.acpi
+#+1479206676
+sysctl hw.acpi
+#+1479206944
+pkg search xosd
+#+1479206986
+pkg install xosd
+#+1479207067
+xo
+#+1479207168
+sysctl hw.acpi.asus.video_output
+#+1479207180
+sysctl dev.hw.acpi.asus.video_output
+#+1479207196
+sysctl hw.acpi.asus
+#+1479207207
+sysctl dev.hw.acpi.asus.video_output
+#+1479207213
+sysctl hw.acpi.asus.lcd_brightness
+#+1479207233
+sysctl dev.acpi_asus_wmi.0.handle_keys
+#+1479207250
+sysctl dev.acpi
+#+1479207286
+sysctl dev.acpi_asus_wmi
+#+1479207330
+sysctl dev.acpi_asus
+#+1479207421
+sysctl dev.acpi.asus
+#+1479207431
+sysctl hw.acpi.asus
+#+1479207448
+sysctl dev.acpi_asus_wmi
+#+1479207455
+sysctl dev.acpi
+#+1479207461
+sysctl dev.acpi_asus
+#+1479207464
+sysctl dev.acpi_asus_wmi
+#+1479207469
+sysctl dev.acpi_asus
+#+1479207472
+sysctl dev.acpi.asus
+#+1479207641
+cd /root/Downloads
+#+1479207642
+ls
+#+1479207651
+tar -xf asusoled-0.03.tar.gz
+#+1479207893
+ls
+#+1479207903
+tar -xf acpi4asus-0.41.tar.bz2
+#+1479208204
+kldstat
+#+1479208508
+cd /
+#+1479208525
+find / -name acpi_ac
+#+1479213376
+mount_msdosfs /dev/da0s1 /mnt/usb0/
+#+1479216615
+pciconf -vl
+#+1479216628
+pciconf -vl | grep rtl
+#+1479216631
+pciconf -vl | grep rtl*
+#+1479216636
+pciconf -vl | grep "rtl"
+#+1479216647
+pciconf -vl | grep -iname rlt*
+#+1479216649
+pciconf -vl | grep -iname rlt
+#+1479216651
+pciconf -vl | grep -iname rlt?
+#+1479216658
+pciconf -vl | grep -iname ?rtl?
+#+1479230519
+ps
+#+1479230527
+kldstat
+#+1479230776
+top
+#+1479230800
+startx
+#+1479231047
+cd scripts/getWWEE_xorgFilesLogs.sh
+#+1479231064
+sh scripts/getWWEE_xorgFilesLogs.sh
+#+1479231076
+ls
+#+1479232351
+kldload vesa
+#+1479232365
+truss
+#+1479232388
+truss -fSa -o truss_kldload_vesa.log kldload vesa
+#+1479232447
+man truss
+#+1479232469
+ls
+#+1479232474
+cat truss_kldload_vesa.log
+#+1479232654
+man truss
+#+1479240958
+dmesg | grep drm
+#+1479241386
+kf ~ $ cat /proc/mtrr
+#+1479241418
+fk ~ $ cat /proc/mtrr
+#+1479241486
+mtree
+#+1479241495
+man mtree
+#+1479241777
+mtrr
+#+1479241787
+man mt
+#+1479241796
+mtman mtest
+#+1479241807
+man mtest
+#+1479241897
+grep MTRR /var/log/
+#+1479241909
+grep MTRR /var/log/messages
+#+1479241998
+find / -iname mtrr
+#+1479242327
+dmesg | grep -i mtrr
+#+1479242348
+find . -iname mtrr
+#+1479242814
+vidcontrol -i mode
+#+1479242824
+vidcontrol -i
+#+1479242827
+vidcontrol
+#+1479242848
+memcontrol list
+#+1479244611
+dmesg | grep -i mtrr
+#+1479244671
+mem
+#+1479244677
+memcontrol
+#+1479244681
+memcontrol list
+#+1479254349
+vidcontrol
+#+1479254356
+man vidcontrol
+#+1479254392
+vidcontrol -d
+#+1479263654
+cd /usr/share/skel/
+#+1479263655
+ls
+#+1479263660
+ls -l
+#+1479263667
+vi dot.profile
+#+1479263683
+ls
+#+1479266005
+poweroff
+#+1479317145
+cp login.conf login.conf.bak
+#+1479317401
+cap_mkdb /etc/login.conf
+#+1479317572
+locate
+#+1479317679
+locate
+#+1479318309
+cp profile profile.bak
+#+1479318524
+sysctl kern.ipc.shmmax
+#+1479318532
+sysctl kern.ipc.shmall
+#+1479319071
+sysctl kern.shmall
+#+1479319077
+sysctl kern.ipc.shmmax
+#+1479319080
+sysctl kern.shmmax
+#+1479319115
+getconf PAGE_SIZE
+#+1479319262
+ipcs -lm
+#+1479319265
+ipcs
+#+1479319268
+ipcs -l
+#+1479319271
+ipcs -m
+#+1479319278
+ipcs -lm
+#+1479319484
+sysctl kern.maxfiles
+#+1479322154
+cp devfs.conf devfs.conf.bak
+#+1479322594
+cp dev cat /dev/sndstat
+#+1479322600
+cat /dev/sndstat
+#+1479322894
+cat /dev/sndstat
+#+1479322950
+sysctl hw.snd.default_unit
+#+1479322972
+sysctl hw.snd.default_auto=0
+#+1479324352
+xdg-user-dirs-update
+#+1479324363
+pkg install xdg-user-dirs-update
+#+1479324372
+pkg install xdg
+#+1479324695
+xdg-settings
+#+1479324704
+xdg-settings --helpl
+#+1479324708
+man xdg
+#+1479324717
+man xdg-settings
+#+1479324746
+xdg-settings --list
+#+1479324787
+xdg-settings get default-web-browser
+#+1479325555
+pkg search xdg
+#+1479325594
+pkg install xdg-user-dirs-0.15_1
+#+1479325626
+rehash
+#+1479325640
+xdg-user-dir
+#+1479325660
+xdg-user-dirs-update
+#+1479325679
+cd /
+#+1479325682
+ls
+#+1479325685
+cd root/
+#+1479325685
+ls
+#+1479325699
+ls -d
+#+1479325704
+ls d
+#+1479325706
+ls -l
+#+1479326174
+xdg-user-dirs-update
+#+1479326193
+ls -l
+#+1479326370
+xdg-user-dirs-update
+#+1479326431
+man xdg-user-dir
+#+1479326465
+man xdg-user-dirs-update
+#+1479326799
+xdg-user-dirs-update
+#+1479326990
+man user-dirs.default
+#+1479327006
+man xdg-user-dir
+#+1479327021
+man xdg-user-dir desktop
+#+1479327031
+xdg-user-dir desktop
+#+1479327042
+xdg-user-dir download
+#+1479327048
+xdg-user-dir music
+#+1479327050
+xdg-user-dir musics
+#+1479327052
+xdg-user-dir musicssss
+#+1479327060
+xdg-user-dir pictures
+#+1479327074
+ls
+#+1479327109
+ls
+#+1479327173
+mkdir templates
+#+1479327174
+ls
+#+1479327197
+mkdir public
+#+1479327199
+ls
+#+1479327213
+mkdir videos
+#+1479327214
+ls
+#+1479327231
+mkdir pictures
+#+1479327232
+ls
+#+1479327254
+mkdir documents
+#+1479327254
+ls
+#+1479327298
+xdg-user-dir pictures
+#+1479327311
+xdg-user-dirs-update
+#+1479327327
+ls
+#+1479327656
+find / -name smartd.conf
+#+1479327807
+pkg install smartmontools
+#+1479328015
+cp /usr/local/etc/smartd.conf.sample /usr/local/etc/smartd.conf
+#+1479328156
+smartctl -H /dev/ada0
+#+1479328917
+pkg install oracle virtual machine
+#+1479328929
+pkg install virtual machine
+#+1479328940
+pkg search oracle virtual machine
+#+1479328953
+pkg search oracle
+#+1479328964
+pkg search vm
+#+1479328991
+pkg search vm | grep virtual
+#+1479329432
+pkg install virtualbox-ose
+#+1479330085
+pw usermod root -G vboxusers
+#+1479330476
+cd /etc/
+#+1479330529
+mv rc.conf.bak rc.conf_02.bak
+#+1479330542
+cp rc.conf rc.conf.bak
+#+1479330623
+cp devfs.conf devfs.conf_01.bak
+#+1479330657
+cp devfs.rules devfs.rules.bak
+#+1479330702
+cp sysctl.conf sysctl.conf_01.bak
+#+1479330722
+cp pf.conf pf.conf.bak
+#+1479330768
+cd /boot
+#+1479330769
+s
+#+1479330770
+ls
+#+1479330778
+cp loader.conf loader.conf.bak
+#+1479330895
+ls
+#+1479330895
+cd /root/.config/
+#+1479330915
+cp user-dirs.dirs user-dirs.dirs.bak
+#+1479330924
+cp user-dirs.locale user-dirs.locale.bak
+#+1479330963
+cd /etc/
+#+1479330964
+ls
+#+1479330971
+cd profile profile.bak
+#+1479330982
+cp profile profile.bak
+#+1479331034
+cd /usr/local/etc
+#+1479331035
+ls
+#+1479331044
+cp smartd.conf smartd.conf.bak
+#+1479331248
+startx
+#+1479331301
+top -PSH
+#+1479331986
+cat /var/run/dmesg.boot | grep error
+#+1479331995
+cat /var/run/dmesg.boot | grep warning
+#+1479332005
+cat /var/run/dmesg.boot | grep" warning"
+#+1479332010
+cat /var/run/dmesg.boot | grep "warning"
+#+1479332018
+cat /var/run/dmesg.boot | grep failed
+#+1479334812
+cat /var/run/dmesg.boot
+#+1479334920
+cd usb
+#+1479334930
+cd /mnt/usb0
+#+1479334932
+LS
+#+1479334934
+ls
+#+1479334951
+mount_msdosfs /dev/da0s1 /mnt/usb0
+#+1479334953
+ls
+#+1479335067
+cd /mnt/usb0/ws/pcbsd/etc/
+#+1479335068
+ls
+#+1479335083
+rm wpa_supplicant.conf
+#+1479335132
+rm wall_cmos_clock
+#+1479335232
+rm ttys
+#+1479335312
+cd /
+#+1479335315
+cd /et
+#+1479335319
+cd etc/
+#+1479335364
+mv /mnt/usb0/ws/pcbsd/etc/timezone /etc/timezone
+#+1479335586
+rm termcap.small
+#+1479335664
+rm syslog.conf
+#+1479336101
+sysctl security.jail.mount_allowed=1 # Required for smb
+#+1479336158
+sysctl hw.syscons.bell
+#+1479336276
+sysctl kern.sched.preempt_thresh
+#+1479341410
+sysctl # Enable for proper lagg failover
+#+1479341429
+sysctl kern.ipc.shm_allow_removed
+#+1479341621
+sysctl kern.shutdown.poweroff_delay
+#+1479341842
+sysctl kern.ipc.shm_allow_removed
+#+1479341886
+sysctl kern.bootfile
+#+1479341896
+sysctl hw.usb.no_shutdown_wait
+#+1479341940
+sysctl kern.vt.enable_bell
+#+1479341965
+sysctl dev.hdac.0.polling
+#+1479342103
+ls
+#+1479342119
+rm sysctl.conf
+#+1479342661
+diff /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479342795
+diff-w --ignore-all-space /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479342826
+diff --ignore-all-space /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479342844
+diff -w --ignore-all-space /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479342867
+diff -w --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479342901
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479342961
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479342987
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/pf.os
+#+1479342997
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/pf.os
+#+1479343016
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/pf.os
+#+1479343020
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479343022
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479343025
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479343038
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479343230
+diff -w -i -y --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479343347
+diff -w -i -y --ignore-all-space --ignore-blank-lines /etc/shells /mnt/usb0/ws/pcbsd/etc/shells
+#+1479343706
+diff -w -i -y -l --ignore-all-space --ignore-blank-lines /etc/shells /mnt/usb0/ws/pcbsd/etc/shells
+#+1479343709
+diff -w -i -y -l --ignore-all-space --ignore-blank-lines /etc/shells /mnt/usb0/ws/pcbsd/etc/shells
+#+1479343784
+diff -w -i -y -l --ignore-all-space --ignore-blank-lines /etc/services /mnt/usb0/ws/pcbsd/etc/services
+#+1479343827
+diff -w -i -y --ignore-all-space --ignore-blank-lines /etc/services /mnt/usb0/ws/pcbsd/etc/services
+#+1479343855
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/services /mnt/usb0/ws/pcbsd/etc/services
+#+1479343929
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.bsdextended /mnt/usb0/ws/pcbsd/etc/rc.bsdextended
+#+1479344039
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rpc /mnt/usb0/ws/pcbsd/etc/rpc
+#+1479344051
+diff -w -i -y --ignore-all-space --ignore-blank-lines /etc/rpc /mnt/usb0/ws/pcbsd/etc/rpc
+#+1479344105
+diff -w -i -y --ignore-all-space --ignore-blank-lines /etc/resolv.conf.bak /mnt/usb0/ws/pcbsd/etc/resolv.conf.bak
+#+1479344128
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/resolv.conf.bak /mnt/usb0/ws/pcbsd/etc/resolv.conf.bak
+#+1479344146
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/resolv.conf /mnt/usb0/ws/pcbsd/etc/resolv.conf
+#+1479344258
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/remote /mnt/usb0/ws/pcbsd/etc/remote
+#+1479344269
+diff -w -i -y --ignore-all-space --ignore-blank-lines /etc/remote /mnt/usb0/ws/pcbsd/etc/remote
+#+1479344280
+diff -w -i - --ignore-all-space --ignore-blank-lines /etc/remote /mnt/usb0/ws/pcbsd/etc/remote
+#+1479344289
+diff -w -i -l --ignore-all-space --ignore-blank-lines /etc/remote /mnt/usb0/ws/pcbsd/etc/remote
+#+1479344293
+diff -w -i -y --ignore-all-space --ignore-blank-lines /etc/remote /mnt/usb0/ws/pcbsd/etc/remote
+#+1479344300
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/remote /mnt/usb0/ws/pcbsd/etc/remote
+#+1479344321
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/regdomain.xml /mnt/usb0/ws/pcbsd/etc/regdomain.xml
+#+1479344351
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.suspend /mnt/usb0/ws/pcbsd/etc/rc.suspend
+#+1479344385
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.subr /mnt/usb0/ws/pcbsd/etc/rc.subr
+#+1479344393
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.subr /mnt/usb0/ws/pcbsd/etc/rc.subr
+#+1479344404
+diff -w --ignore-all-space --ignore-blank-lines /etc/rc.subr /mnt/usb0/ws/pcbsd/etc/rc.subr
+#+1479344418
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/snmpd.config /mnt/usb0/ws/pcbsd/etc/snmpd.config
+#+1479344424
+diff -w --ignore-all-space --ignore-blank-lines /etc/rc.subr /mnt/usb0/ws/pcbsd/etc/rc.subr
+#+1479344432
+diff -w -i -q --ignore-all-space --ignore-blank-lines /etc/rc.subr /mnt/usb0/ws/pcbsd/etc/rc.subr
+#+1479344443
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.subr /mnt/usb0/ws/pcbsd/etc/rc.subr
+#+1479344569
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.subr /mnt/usb0/ws/pcbsd/etc/rc.subr
+#+1479344732
+mv rc.subr rc.subr.original
+#+1479344776
+mv rc.subr /etc/
+#+1479344822
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.shutdown /mnt/usb0/ws/pcbsd/etc/rc.shutdown
+#+1479344836
+diff -w -i --ignore-all-space --ignore-blank-lines /etc/rc.sendmail /mnt/usb0/ws/pcbsd/etc/rc.sendmail
+#+1479345074
+umount /mnt/usb0
+#+1479345086
+poweroff
+#+1479397935
+ncmpcpp
+#+1479398201
+cd /tmp/
+#+1479398202
+ls a
+#+1479398205
+diff a b
+#+1479398235
+diff -i a b
+#+1479398244
+diff -y a b
+#+1479398338
+diff a b
+#+1479398349
+diff -y a b
+#+1479398383
+diff --ignore-blank-line a b
+#+1479398389
+diff -y --ignore-blank-line a b
+#+1479398414
+diff -y --ignore-blank-line a b
+#+1479398434
+man diff
+#+1479398476
+diff -w -B a b
+#+1479398490
+diff -wB a b
+#+1479398496
+diff -wBb a b
+#+1479398528
+diff -wBbu a b
+#+1479398541
+diff -wBbuy a b
+#+1479398591
+diff -wBbuy a b
+#+1479398633
+diff -wBbuy a b
+#+1479398645
+diff -wBbuy a b
+#+1479398664
+diff -wBbuy a b
+#+1479398677
+diff -wBbu a b
+#+1479398729
+diff -wBb a b
+#+1479398780
+diff -wBb a b
+#+1479398789
+diff -wBbuy a b
+#+1479399137
+diff -wBbuy a b
+#+1479399221
+diff -wBbuy a b
+#+1479399233
+diff a b
+#+1479399443
+diff -y a b
+#+1479399509
+diff -y a b
+#+1479399549
+diff a b
+#+1479399652
+diff a b
+#+1479399695
+diff -y a b
+#+1479399740
+diff -c a b
+#+1479399919
+diff -cy a b
+#+1479399928
+diff -u a b
+#+1479400024
+diff -e a b
+#+1479400276
+diff -y a b | colordiff
+#+1479400386
+diff -wBbuy a b
+#+1479400404
+diff -wBby a b
+#+1479400407
+diff -wBb a b
+#+1479400414
+diff -wBbuy a b
+#+1479400714
+diff -wBbuy a b
+#+1479400719
+diff -n a b
+#+1479400759
+diff -W a b
+#+1479400763
+diff -W10 a b
+#+1479400801
+diff -W130 a b
+#+1479400853
+diff -LTYPE a b
+#+1479400877
+diff -N a b
+#+1479400889
+diff N a b
+#+1479400896
+diff Nb a b
+#+1479400901
+diff -Nb a b
+#+1479400913
+diff -M a b
+#+1479400916
+diff M a b
+#+1479400920
+diff Mb a b
+#+1479400925
+diff M -b a b
+#+1479400936
+diff -b M a b
